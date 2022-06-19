@@ -1,0 +1,11 @@
+brown
+#5B3427
+
+offwhite
+#FFE7D3
+
+dark brown
+#55433B
+
+weird turquoise
+#00B195
